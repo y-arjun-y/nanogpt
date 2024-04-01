@@ -1,2 +1,2 @@
-# nanogpt
-Implementation of Andrej Karpathy's nanoGPT model - https://www.youtube.com/watch?v=kCc8FmEb1nY 
+# GPT-2
+Implementation of OpenAI's GPT-2 model - [https://www.youtube.com/watch?v=kCc8FmEb1nY](https://www.youtube.com/watch?v=kCc8FmEb1nY)
